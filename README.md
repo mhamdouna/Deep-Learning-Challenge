@@ -4,6 +4,7 @@ Challenge 21
 
 Instructions
 Step 1: Preprocess the data
+
 Using your knowledge of Pandas and the Scikit-Learn’s StandardScaler(), you’ll need to preprocess the dataset in order to compile, train, and evaluate the neural network model later in Step 2
 
 Using the information we have provided in the starter code, follow the instructions to complete the preprocessing steps.
